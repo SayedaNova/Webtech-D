@@ -96,12 +96,12 @@
 	<h1>University Portal</h1>
 	<h3>Login as:</h3>
 	<a href="View/admin_views/admin_login_view.php">Admin</a>
-	<a href="View/student_views/student_login_view.php">Student</a>
-	<a href="View/teacher_views/teacher_login_view.php">Teacher</a>
+	<a href="Login.php">Student</a>
+	<a href="teacherLogin.php">Teacher</a>
 
 	<h3>Register as:</h3>
-	<a href="View/student_views/signup_view.php">New Student</a>
-	<a href="View/teacher_views/signup_view.php">New Teacher</a>
+	<a href="Signup.php">New Student</a>
+	<a href="teacherSignup.php">New Teacher</a>
 	</div>
 
 	</div>
